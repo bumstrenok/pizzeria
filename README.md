@@ -1,2 +1,3 @@
 # pizzeria
-pizzeria-project.surge.sh
+http://pizzeria-project.surge.sh/
+
