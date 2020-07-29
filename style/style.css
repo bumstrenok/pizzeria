@@ -329,10 +329,26 @@ body {
 
   .nav {
     margin-top: 34px;
+    display: none;
   }
 
-  .page .h2::before, .h2::after {
+  .page .menu {
     display: none;
+  }
+
+  .menu-active {
+    display: none;
+  }
+
+  .page .h2::before, .page .h2::after {
+    display: none;
+  }
+
+  .page .center {
+    margin-bottom: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
   .btn-start {
